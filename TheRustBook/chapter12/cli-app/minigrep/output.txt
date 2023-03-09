@@ -1,0 +1,5 @@
+true
+Searching for :to
+in File :poem.txt
+Are you nobody, too?
+How dreary to be somebody!
